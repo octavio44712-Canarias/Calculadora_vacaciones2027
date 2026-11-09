@@ -1,0 +1,1 @@
+Calculadora para dias de vacaciones  con convenio de la siderometalurgia de la provincia de las Palmas de Gran Canaria con mejora de convenio  con dias laborales. control de vacaciones, dias disponibles y dias usados de vacaciones, control de guardias de personal. etc
