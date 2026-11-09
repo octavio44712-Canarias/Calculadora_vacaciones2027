@@ -1,0 +1,8 @@
+CALCULADORA DE VACACIONES BCFLPA 2027
+
+Sube los archivos index.html, manifest.webmanifest, sw.js, icon-48.png, icon-192.png e icon-512.png a la raíz del repositorio GitHub.
+GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+URL: https://octavio44712-canarias.github.io/Calculadora_vacaciones2027/
+En iPhone: abrir URL con Safari > Compartir > Añadir a pantalla de inicio.
+Los datos se guardan solo en el navegador/dispositivo. Exporta copias periódicamente.
+Los festivos 2027 requieren comprobación con el calendario oficial antes de utilizar los cálculos para nóminas.
